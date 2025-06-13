@@ -26,3 +26,31 @@ SAskTheDoc is an intelligent chatbot that can read and understand uploaded PDF d
 - Preprocessing: NLTK
 - Visualization: WordCloud, Pandas
 
+### 📝 Installation
+```bash
+git clone https://github.com/your-username/smart-guide-agent.git
+cd smart-guide-agent
+```
+
+### 🔧 Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 📦 Required NLTK & SpaCy Models
+```bash
+python -m nltk.downloader punkt stopwords wordnet
+python -m spacy download en_core_web_sm
+```
+
+### 🔐 Setup Google API Key
+Get your API key from Google AI Studio.
+Create a .env file in the root directory:
+```
+GOOGLE_API_KEY=your_google_api_key
+```
+
+### ▶️ Run the App
+```bash
+streamlit run app.py
+```
