@@ -5,15 +5,15 @@ SAskTheDoc is an intelligent chatbot that can read and understand uploaded PDF d
 
 
 ### 🚀 Features
-📚 Upload one or more PDFs
-🔍 Extracts and preprocesses text from PDFs
-✨ Displays word count and most frequent terms
-💬 Asks questions about the documents
-🤖 Uses Google Generative AI (Gemini) for intelligent answers
-🧠 Named Entity Recognition (NER) with SpaCy
-📊 Displays response time for each answer
-☁️ Vector storage with FAISS
-🛠 Built with Streamlit, LangChain, NLTK, SpaCy, and more
+- 📚 Upload one or more PDFs
+- 🔍 Extracts and preprocesses text from PDFs
+- ✨ Displays word count and most frequent terms
+- 💬 Asks questions about the documents
+- 🤖 Uses Google Generative AI (Gemini) for intelligent answers
+- 🧠 Named Entity Recognition (NER) with SpaCy
+- 📊 Displays response time for each answer
+- ☁️ Vector storage with FAISS
+- 🛠 Built with Streamlit, LangChain, NLTK, SpaCy, and more
 
 ### 🧰 Tech Stack
 - Frontend/UI: Streamlit
