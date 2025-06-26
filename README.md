@@ -1,4 +1,7 @@
 # AskTheDoc
+
+[Read Complete Blog](https://shashankshet.hashnode.dev/build-a-smart-ai-assistant-that-can-read-your-pdfs-and-answer-questions-no-ai-knowledge-needed)
+
 AI agent which can read the doc and answer your quries
 
 SAskTheDoc is an intelligent chatbot that can read and understand uploaded PDF documents, and then answer user questions based on the content. It leverages cutting-edge technologies such as Google Generative AI, LangChain, and FAISS for embedding and retrieval, all wrapped inside a sleek Streamlit UI.
